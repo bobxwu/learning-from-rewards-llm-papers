@@ -377,6 +377,8 @@ We welcome contributions from the community, so feel free to submit pull request
 
 - **When can llms actually correct their own mistakes? a critical survey of self-correction of llms**. arXiv, 2024. [paper](https://arxiv.org/pdf/2406.01297)
 
+- **Translate-and-Revise: Boosting Large Language Models for Constrained Translation**. CCL, 2024. [paper](https://aclanthology.org/2024.ccl-1.82.pdf)
+
 - **Enhancing llm reasoning via critique models with test-time and training-time supervision**. arXiv, 2024. [paper](https://arxiv.org/pdf/2411.16579)
 
 - **Two Heads Are Better Than One: Dual-Model Verbal Reflection at Inference-Time**. arXiv, 2025. [paper](https://arxiv.org/pdf/2502.19230)
@@ -593,6 +595,8 @@ We welcome contributions from the community, so feel free to submit pull request
 - **AgentRM: Enhancing Agent Generalization with Reward Modeling**. arXiv, 2025. [paper](https://arxiv.org/pdf/2502.18407)
 
 - **DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments**. arXiv, 2025. [paper](https://arxiv.org/pdf/2504.03160)
+
+- **Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction**. arXiv, 2026. [paper](https://arxiv.org/pdf/2601.12762)
 
 
 
